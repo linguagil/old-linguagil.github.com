@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Bem vindo!
+tagline: Nova casa! Novas ideias!
 ---
 {% include JB/setup %}
 
@@ -31,12 +31,9 @@ When you don't need the samples anymore just delete the `_posts/core-samples` fo
     $ rm -rf _posts/core-samples
 
 Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+{% for post in site.posts %}
+* [{{ post.date | date_to_string }} - {{post.title}}]({{ BASE_PATH }}{{ post.url }} "TITLE")
+{% endfor %}
 
 ## To-Do
 
