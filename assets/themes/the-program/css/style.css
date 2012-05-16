@@ -75,6 +75,7 @@ No styleguide reference.
 */
 a {
   color: #00e;
+  font-weight: bold;
 }
 a:visited {
   color: #551a8b;
