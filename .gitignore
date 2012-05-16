@@ -3,3 +3,4 @@ Rakefile
 changelog.md
 _theme_packages
 /nbproject/private/
+nbproject/
