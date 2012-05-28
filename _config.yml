@@ -14,9 +14,10 @@ tagline: Espalhando conhecimento de TI em Salvador e na Bahia!
 logo: logo-medium.png
 author :
   name : Grupo LinguÁgil
-  email : contato@linguagil.com
+  email : contato@linguagil.com.br
   github : linguagil
   twitter : "@linguagil"
+  vimeo : linguagil
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 

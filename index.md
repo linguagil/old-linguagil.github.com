@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: index
 title: Bem vindo!
 tagline: Nova casa! Novas ideias!
 ---
-{% include JB/setup %}
 A ideia principal do Grupo LinguÁgil é disseminar conhecimento
 na área de Tecnologia da Informação (TI) em Salvador e na Bahia.
 Para isso, incentiva alunos de universidades e faculdades
