@@ -1,3 +1,4 @@
-Grupo LinguÁgil Site
+Old linguagil.github.com
 ======================
-LinguÁgil e Grupo LinguÁgil agora se hospedam no Github!
+
+This was an attempt to host using jekyll.
